@@ -1,3 +1,6 @@
+jwt:
+  secret: 'AshuSingh'
+
 server:
   port: 8089
 
